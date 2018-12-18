@@ -1,0 +1,12 @@
+[submodule "instaloader"]
+	path = instaloader
+	url = git@github.com:instaloader/instaloader.git
+[submodule "instagram_private_api"]
+	path = instagram_private_api
+	url = git@github.com:ping/instagram_private_api.git
+[submodule "instagram_private_api_extensions"]
+	path = instagram_private_api_extensions
+	url = git@github.com:ping/instagram_private_api_extensions.git
+[submodule "instabot.py"]
+	path = instabot.py
+	url = git@github.com:instabot-py/instabot.py.git
