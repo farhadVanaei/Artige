@@ -10,3 +10,6 @@
 [submodule "instabot.py"]
 	path = instabot.py
 	url = git@github.com:instabot-py/instabot.py.git
+[submodule "artige-erp"]
+	path = artige-erp
+	url = git@github.com:kajbaf/artige_ir.git
